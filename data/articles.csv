@@ -1,0 +1,6 @@
+id,user_id,title,content
+1,1,Article 1,"This is the content of article 1."
+2,1,Article 2,"This is the content of article 2."
+3,2,Article 3,"This is the content of article 3."
+4,2,Article 4,"This is the content of article 4."
+5,3,Article 5,"This is the content of article 5."
